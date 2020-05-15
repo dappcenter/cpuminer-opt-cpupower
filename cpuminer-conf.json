@@ -10,8 +10,10 @@
 
 	"algo" : "x11",
 	"threads" : 0,
-	"cpu-priority" : 0,
+	"cpu-priority" : 2,
 	"cpu-affinity" : -1,
+	"max-cpu-usage": 75,
+	"threads": 4, 
 
 	"benchmark" : false,
 	"debug" : false,
